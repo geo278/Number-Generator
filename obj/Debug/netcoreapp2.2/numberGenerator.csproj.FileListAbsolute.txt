@@ -1,0 +1,11 @@
+C:\Users\georg\CPSC\numberGenerator\bin\Debug\netcoreapp2.2\numberGenerator.deps.json
+C:\Users\georg\CPSC\numberGenerator\bin\Debug\netcoreapp2.2\numberGenerator.runtimeconfig.json
+C:\Users\georg\CPSC\numberGenerator\bin\Debug\netcoreapp2.2\numberGenerator.runtimeconfig.dev.json
+C:\Users\georg\CPSC\numberGenerator\bin\Debug\netcoreapp2.2\numberGenerator.dll
+C:\Users\georg\CPSC\numberGenerator\bin\Debug\netcoreapp2.2\numberGenerator.pdb
+C:\Users\georg\CPSC\numberGenerator\obj\Debug\netcoreapp2.2\numberGenerator.csprojAssemblyReference.cache
+C:\Users\georg\CPSC\numberGenerator\obj\Debug\netcoreapp2.2\numberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\georg\CPSC\numberGenerator\obj\Debug\netcoreapp2.2\numberGenerator.AssemblyInfoInputs.cache
+C:\Users\georg\CPSC\numberGenerator\obj\Debug\netcoreapp2.2\numberGenerator.AssemblyInfo.cs
+C:\Users\georg\CPSC\numberGenerator\obj\Debug\netcoreapp2.2\numberGenerator.dll
+C:\Users\georg\CPSC\numberGenerator\obj\Debug\netcoreapp2.2\numberGenerator.pdb
