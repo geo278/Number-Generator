@@ -4176,11 +4176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\CPSC\\numberGenerator\\numberGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\CPSC\\Number-Generator\\numberGenerator.csproj",
       "projectName": "numberGenerator",
-      "projectPath": "C:\\Users\\georg\\CPSC\\numberGenerator\\numberGenerator.csproj",
+      "projectPath": "C:\\Users\\georg\\CPSC\\Number-Generator\\numberGenerator.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\CPSC\\numberGenerator\\obj\\",
+      "outputPath": "C:\\Users\\georg\\CPSC\\Number-Generator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
